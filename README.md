@@ -90,7 +90,7 @@ This structured approach ensures that alarms are handled efficiently and reliabl
 
 # Alarm App Screens
 
-| Screen 1 | Screen 2 | Screen 3 |
+| Screen 1  | Screen 2 | Screen 3 |
 |----------|----------|----------|
 | <img src="https://github.com/user-attachments/assets/cabf9136-1e06-4b59-886d-3fdeef642d03" width="200" height="330"/><br>**Main Screen - No Alarm Set**<br>*(As previously described/visualized)* | <img src="https://github.com/user-attachments/assets/b04fe0bc-46f7-4ca0-a2a9-163c09f7a44b" width="200" height="330"/><br>**Time Picker Dialog**<br>*(As previously described/visualized)* | <img src="https://github.com/user-attachments/assets/279b07a2-3018-4023-96f2-ccad39dd21be" width="200" height="330"/><br>**Main Screen - Alarm Set**<br>*(As previously described/visualized)* |
 
