@@ -88,24 +88,11 @@ This structured approach ensures that alarms are handled efficiently and reliabl
 
 ## Conceptual Output Screenshots
 
+# Alarm App Screens
 
-**1. Main Screen - No Alarm Set**
-*(As previously described/visualized)*
-![alarm4_1 ](https://github.com/user-attachments/assets/cabf9136-1e06-4b59-886d-3fdeef642d03)
-
-
-
-
-
-
-**2. Time Picker Dialog**
-*(As previously described/visualized)*
-![alarm4_2](https://github.com/user-attachments/assets/b04fe0bc-46f7-4ca0-a2a9-163c09f7a44b)
-
-
-**3. Main Screen - Alarm Set**
-*(As previously described/visualized)*
-![alarm4_3](https://github.com/user-attachments/assets/279b07a2-3018-4023-96f2-ccad39dd21be)
+| Screen 1 | Screen 2 | Screen 3 |
+|----------|----------|----------|
+| <img src="https://github.com/user-attachments/assets/cabf9136-1e06-4b59-886d-3fdeef642d03" width="200" height="330"/><br>**Main Screen - No Alarm Set**<br>*(As previously described/visualized)* | <img src="https://github.com/user-attachments/assets/b04fe0bc-46f7-4ca0-a2a9-163c09f7a44b" width="200" height="330"/><br>**Time Picker Dialog**<br>*(As previously described/visualized)* | <img src="https://github.com/user-attachments/assets/279b07a2-3018-4023-96f2-ccad39dd21be" width="200" height="330"/><br>**Main Screen - Alarm Set**<br>*(As previously described/visualized)* |
 
 
 
